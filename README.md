@@ -14,10 +14,3 @@ This game was created using:
 <a href="https://p5js.org/" target="_blank">p5.js</a>, 
 <a href="https://molleindustria.github.io/p5.play/" target="_blank">p5.play</a>
 
-  
-<ins><strong>Timeline<strong><ins>
-1. create gamestates for different color user choices
-2. create buttons for user interactions and choice
-3. create rules/controls page
-4. create artist statement page
-5. add sound to project
