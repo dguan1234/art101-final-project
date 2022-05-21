@@ -1,0 +1,94 @@
+
+
+/* .titlePage{
+  padding: 30rem;
+  background-color: #E5CB9F;
+}
+
+.artistStatement{
+  padding: 30rem;
+  background-color: #E5CB9F;
+} */
+/* main screen */
+
+/* #gameContainer{
+  position: absolute;
+} */
+
+.buttonContainer{
+  position: relative;
+  text-align: center;
+  padding: 4rem;
+  margin: auto;
+}
+
+main{
+  /* text-align: center; */
+  background-color: #383834;
+  position:  relative;
+
+}
+
+
+html{
+  background-color: #383834;
+  text-align: center;
+}
+
+div{
+  background-color: #383834;
+}
+
+
+
+/* statement screen */
+
+h1 {
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #cfcfcf;
+  line-height: 2;
+}
+
+
+/* #image{
+  position: absolute;
+  scale: 10;
+} */
+
+
+
+#statement{
+    font-family: 'Montserrat', sans-serif;
+    color:#cfcfcf;
+    font-size:24px;
+    font-weight:bold;
+    margin: auto 35%;
+    position: relative;
+}
+
+.backbutton {
+background:    grey;
+border-radius: 11px;
+margin: 50px;
+padding:       20px 45px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 26px/1 "Open Sans", sans-serif;
+text-align:    center;
+bottom: 110px;
+left: 825px;
+text-decoration: none;
+}
+
+.bottom-img {
+    position:fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+    height:20%;
+}
+
+
+/* shoe selection button css */
